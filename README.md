@@ -1,2 +1,4 @@
 # hello-world
-Trying out GitHub
+
+Newbie here! 
+Getting ready for the hackaton next week.
